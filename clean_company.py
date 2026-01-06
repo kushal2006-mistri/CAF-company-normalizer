@@ -28,5 +28,5 @@ if __name__ == "__main__":
     # Save cleaned Excel
     df.to_excel("employee_cleaned.xlsx", index=False)
 
-    print("✅ Company names cleaned successfully!")
-    print("📁 Output file created: employee_cleaned.xlsx")
+    print("Company names cleaned successfully!")
+    print("Output file created: employee_cleaned.xlsx")
